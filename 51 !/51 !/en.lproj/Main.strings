@@ -1,0 +1,195 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0Yr-VH-Thr"; */
+"0Yr-VH-Thr.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2O0-W5-U13"; */
+"2O0-W5-U13.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2oM-5h-c0W"; */
+"2oM-5h-c0W.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Ph-fs-R0R"; */
+"3Ph-fs-R0R.text" = "Label";
+
+/* Class = "UILabel"; text = "Games won in the round"; ObjectID = "7iw-kY-h6Y"; */
+"7iw-kY-h6Y.text" = "Games won in the round";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Bk-in-0OO"; */
+"8Bk-in-0OO.text" = "Label";
+
+/* Class = "UILabel"; text = "プレイ回数"; ObjectID = "BxV-4f-gfK"; */
+"BxV-4f-gfK.text" = "Plays";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DG6-ZR-iJX"; */
+"DG6-ZR-iJX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FgL-kD-ndw"; */
+"FgL-kD-ndw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ga4-Ne-2Iq"; */
+"Ga4-Ne-2Iq.text" = "Label";
+
+/* Class = "UILabel"; text = "ROUND1"; ObjectID = "HRt-od-cUb"; */
+"HRt-od-cUb.text" = "ROUND1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I4P-Ef-MpC"; */
+"I4P-Ef-MpC.text" = "Label";
+
+/* Class = "UILabel"; text = "ROUND4"; ObjectID = "IGH-Of-8FK"; */
+"IGH-Of-8FK.text" = "ROUND4";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "J7N-c3-sh0"; */
+"J7N-c3-sh0.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JAR-cl-wg8"; */
+"JAR-cl-wg8.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "K8T-1p-PJf"; */
+"K8T-1p-PJf.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Lew-EH-j7P"; */
+"Lew-EH-j7P.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NMH-G8-zIz"; */
+"NMH-G8-zIz.text" = "Label";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Naq-u8-rxx"; */
+"Naq-u8-rxx.text" = "Total";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ncd-kl-NXO"; */
+"Ncd-kl-NXO.text" = "Label";
+
+/* Class = "UILabel"; text = "Winning percentage in the round[%]"; ObjectID = "Nn5-4o-6Pf"; */
+"Nn5-4o-6Pf.text" = "Winning percentage in round[%]";
+
+/* Class = "UILabel"; text = "Player4"; ObjectID = "OPV-2D-iRe"; */
+"OPV-2D-iRe.text" = "Player4";
+
+/* Class = "UILabel"; text = "Player3"; ObjectID = "Okj-HA-3jG"; */
+"Okj-HA-3jG.text" = "Player3";
+
+/* Class = "UILabel"; text = "Player2"; ObjectID = "OzU-C8-s5u"; */
+"OzU-C8-s5u.text" = "Player2";
+
+/* Class = "UIButton"; normalTitle = "End"; ObjectID = "Pyw-Yq-6hh"; */
+"Pyw-Yq-6hh.normalTitle" = "End";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QjX-4V-trd"; */
+"QjX-4V-trd.text" = "Label";
+
+/* Class = "UILabel"; text = "Games played"; ObjectID = "R51-H9-nXr"; */
+"R51-H9-nXr.text" = "Games played";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RAv-zr-qPs"; */
+"RAv-zr-qPs.text" = "Label";
+
+/* Class = "UILabel"; text = "Record"; ObjectID = "Sef-KD-kaL"; */
+"Sef-KD-kaL.text" = "Record";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TFc-4u-OuJ"; */
+"TFc-4u-OuJ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "VAD-y6-xld"; */
+"VAD-y6-xld.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VFq-Ed-cgW"; */
+"VFq-Ed-cgW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W1N-3Z-t3v"; */
+"W1N-3Z-t3v.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WM0-ab-DA2"; */
+"WM0-ab-DA2.text" = "Label";
+
+/* Class = "UILabel"; text = "Winning percentage [%]"; ObjectID = "Yd9-k9-gXc"; */
+"Yd9-k9-gXc.text" = "Winning percentage [%]";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z2t-yI-FWh"; */
+"Z2t-yI-FWh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a0f-89-JCg"; */
+"a0f-89-JCg.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b5l-2T-J3d"; */
+"b5l-2T-J3d.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bFm-mK-DjU"; */
+"bFm-mK-DjU.text" = "Label";
+
+/* Class = "UILabel"; text = "Player1"; ObjectID = "bgS-aQ-9Ko"; */
+"bgS-aQ-9Ko.text" = "Player1";
+
+/* Class = "UILabel"; text = "Games Won in the round"; ObjectID = "br3-3w-lwC"; */
+"br3-3w-lwC.text" = "Games won in round";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c8m-vM-C1h"; */
+"c8m-vM-C1h.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cBj-rS-6t1"; */
+"cBj-rS-6t1.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cIb-kM-2UI"; */
+"cIb-kM-2UI.text" = "Label";
+
+/* Class = "UILabel"; text = "ROUND2"; ObjectID = "coB-yB-4mM"; */
+"coB-yB-4mM.text" = "ROUND2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eOM-eP-GXO"; */
+"eOM-eP-GXO.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eWe-9q-SUq"; */
+"eWe-9q-SUq.text" = "Label";
+
+/* Class = "UILabel"; text = "Games round"; ObjectID = "edi-mB-dUD"; */
+"edi-mB-dUD.text" = "Games round";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fIr-d0-RuR"; */
+"fIr-d0-RuR.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hQ5-P0-9Sc"; */
+"hQ5-P0-9Sc.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hs7-X4-oQP"; */
+"hs7-X4-oQP.text" = "Label";
+
+/* Class = "UILabel"; text = "Games won"; ObjectID = "nMM-n7-v1p"; */
+"nMM-n7-v1p.text" = "Games won";
+
+/* Class = "UILabel"; text = "Winning percentage in the round"; ObjectID = "njm-Al-0Fv"; */
+"njm-Al-0Fv.text" = "Winning percentage \n in round";
+
+/* Class = "UILabel"; text = "ROUND5"; ObjectID = "oPQ-0f-smd"; */
+"oPQ-0f-smd.text" = "ROUND5";
+
+/* Class = "UILabel"; text = "Games round"; ObjectID = "q5o-b5-ZOp"; */
+"q5o-b5-ZOp.text" = "Games round";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q8B-yW-Qf4"; */
+"q8B-yW-Qf4.text" = "Label";
+
+/* Class = "UILabel"; text = "ROUND3"; ObjectID = "qga-ld-7SO"; */
+"qga-ld-7SO.text" = "ROUND3";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qqo-kK-NzK"; */
+"qqo-kK-NzK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "qsW-Gw-yw0"; */
+"qsW-Gw-yw0.normalTitle" = "reset";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rXR-5o-XwU"; */
+"rXR-5o-XwU.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rav-kP-GFo"; */
+"rav-kP-GFo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vni-72-M9P"; */
+"vni-72-M9P.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xpm-mO-i9E"; */
+"xpm-mO-i9E.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yR5-Ar-dcQ"; */
+"yR5-Ar-dcQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Winning percentage"; ObjectID = "zTx-ce-7Ax"; */
+"zTx-ce-7Ax.text" = "Winning percentage";

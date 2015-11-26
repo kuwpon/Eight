@@ -1,0 +1,33 @@
+/*
+ Localize.strings
+ 51 !
+ 
+ Created by 桑原綾人 on 2015/10/28.
+ Copyright © 2015年 game. All rights reserved.
+ */
+"あなたの番です"="Your turn";
+"CallまたはPassしてください"="Please be Call or Pass.";
+"スタートを押してください"="Please press the start.";
+"成績クリア"="Record clear";
+"成績をクリアしますか？"="Do you want to reset the record?";
+"通知"="Notification";
+"成績をクリアしました。"="The record was reset.";
+"1st"="1st";
+"2nd"="2nd";
+"3rd"="3rd";
+"4th"="4th";
+"Exchange"="Exchange";
+"Pass"="Pass";
+"Return"="Return";
+"Call"="Call";
+"ゲーム終了"="Game over";
+"タイトル画面"="Back to the title";
+"Player1の勝ちです"="Player1 win";
+"Player2の勝ちです"="Player2 win";
+"Player3の勝ちです"="Player3 win";
+"Player4の勝ちです"="Player4 win";
+"Player1とPlayer2の勝ちです"="Player1 and Player2 win";
+"Player1とPlayer3の勝ちです"="Player1 and Player3 win";
+"Player1とPlayer4の勝ちです"="Player1 and Player4 win";
+"Player2とPlayer3の勝ちです"="Player2 and Player3 win";
+"Player3とPlayer4の勝ちです"="Player3 and Player4 win";

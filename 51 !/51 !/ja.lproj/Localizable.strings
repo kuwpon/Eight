@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  51 !
+
+  Created by 桑原綾人 on 2015/11/19.
+  Copyright © 2015年 game. All rights reserved.
+*/
+"あなたの番です"="あなたの番です";
+"CallまたはPassしてください"="コールまたはパスしてください";
+"スタートを押してください"="スタートを押してください";
+"成績クリア"="成績クリア";
+"成績をクリアしますか？"="成績をクリアしますか？";
+"通知"="通知";
+"成績をクリアしました。"="成績をクリアしました。";
+"1st"="1位";
+"2nd"="2位";
+"3rd"="3位";
+"4th"="4位";
+"Exchange"="交換";
+"Pass"="パス";
+"Return"="流す";
+"Call"="コール";
+"ゲーム終了"="ゲーム終了";
+"タイトル画面"="タイトル画面に戻りますか？";
+"Player1の勝ちです"="Player1の勝ちです";
+"Player2の勝ちです"="Player2の勝ちです";
+"Player3の勝ちです"="Player3の勝ちです";
+"Player4の勝ちです"="Player4の勝ちです";
+"Player1とPlayer2の勝ちです"="Player1とPlayer2の勝ちです";
+"Player1とPlayer3の勝ちです"="Player1とPlayer3の勝ちです";
+"Player1とPlayer4の勝ちです"="Player1とPlayer4の勝ちです";
+"Player2とPlayer3の勝ちです"="Player2とPlayer3の勝ちです";
+"Player3とPlayer4の勝ちです"="Player3とPlayer4の勝ちです";
